@@ -1,5 +1,6 @@
 pub mod arrays;
 pub mod linked_list;
+pub mod recursion;
 
 pub fn add(left: usize, right: usize) -> usize {
     left + right
